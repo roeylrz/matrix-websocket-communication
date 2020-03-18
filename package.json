@@ -26,7 +26,6 @@
     },
     "homepage": "https://github.com/roeylrz/matrix-websocket-communication#readme",
     "keywords": [
-        "matrix-cabinet",
-        "communication"
+        "matrix-cabinet"
     ]
 }
