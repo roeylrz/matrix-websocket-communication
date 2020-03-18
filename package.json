@@ -1,6 +1,6 @@
 {
     "name": "matrix-websocket-communication",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "node js program to communicate with Matrix .Net service ",
     "main": "wsClient.js",
     "directories": {
