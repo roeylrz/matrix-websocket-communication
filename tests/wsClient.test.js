@@ -1,4 +1,4 @@
-const createWebSocket = require("../wsClient");
+const { createWebSocket } = require("../wsClient");
 const { getMockData } = require("./db/contantMocks");
 
 var {
