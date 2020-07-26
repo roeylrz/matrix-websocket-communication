@@ -39,7 +39,6 @@ const createWebSocket = (
     });
     connection.on("message", function(message) {
       if (message.type === "utf8") {
-        console.log(message.utf8Data);
         if (onMessageHandler) onMessageHandler(message.utf8Data);
       }
     });
